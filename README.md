@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # TaskManagerTechTask
+=======
+# Task Manager
+>>>>>>> 1878ff0 (Initial commit)
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/test7024343/taskmanagertechtask.git
+=======
+git remote add origin https://gitlab.com/test7024343/task-manager.git
+>>>>>>> 1878ff0 (Initial commit)
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/test7024343/taskmanagertechtask/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/test7024343/task-manager/-/settings/integrations)
+>>>>>>> 1878ff0 (Initial commit)
 
 ## Collaborate with your team
 
